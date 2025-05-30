@@ -223,6 +223,13 @@ while not user_satisfied:
 - Splash particle count: 500-700  
 - Render: Photorealistic fluid dynamics"
 ```
+## Prompt For Video Generation
+```
+Create a 30-second advertisement video for Cetaphil Face Wash featuring only male characters, targeting young men with sensitive or acne-prone skin. Start with a close-up of a young man looking at his irritated skin in the mirror. Show him applying Cetaphil Face Wash with a smooth lather, followed by water rinsing off easily. Include visuals of calming ingredients like aloe vera and water splashes. Show his skin visibly clearer and healthier after use. End with him confidently stepping out, smiling. Voiceover: ‘Real care for real skin. Cetaphil – gentle, effective, and made for men.’ Include soft, modern background music and display the Cetaphil logo at the end.
+```
+
+### Output
+https://drive.google.com/file/d/1kArmWRl-bSxQFcYfK-RcNVuhgl0HbfSQ/view?usp=sharing
 
 
 # Result: 
