@@ -1,6 +1,8 @@
 # Exno.9-To explore and understand the various prompting techniques used for generating videos through AI models. 
 
 ## Register no.:212222230027
+
+[Video](https://drive.google.com/file/d/1kArmWRl-bSxQFcYfK-RcNVuhgl0HbfSQ/view?usp=sharing)
 # Aim: 
 To perform the Exploration of Prompting Techniques for Video Generation
 # Algorithm: 
